@@ -20,7 +20,7 @@ Para mais detalhes, acesse a [documentação](https://docs.expo.io/versions/v36.
 
 ### Observações 
 
-Provavelmente ocorrerá o seguinte erro ao tentar rodar o app pela primeira vez:
+Pode ocorrer o seguinte erro ao tentar rodar o app pela primeira vez:
 
 ![package-error](https://user-images.githubusercontent.com/27246482/75368725-e9dfee80-58a0-11ea-9123-29e908da1fe3.png)
 
